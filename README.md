@@ -1,18 +1,18 @@
-<!--
-### Hi there 👋
-**fanxiangqing/fanxiangqing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Visitor Count](https://profile-counter.glitch.me/Envoy-VC/count.svg)
 
-Here are some ideas to get you started:
+<div style="text-align: right">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="./assets/cover.gif" alt="Cover">
+
+<a href="https://app.daily.dev/Envoy_"><img align="right" src="https://api.daily.dev/devcards/54371a309e0a49fdbb18b238d19f6ac9.png?r=kas" width="200" alt="Vedant Chainani's Dev Card"/></a>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=Web3+Technical+Writer+✍️;⛓️+Blockchain+Enthusiast"alt="Currently Learning Solidity">
+</p>
+
+
+## Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 
 
 <a href="https://twitter.com/Envoy_1084"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="@Envoy_1084"></a>
