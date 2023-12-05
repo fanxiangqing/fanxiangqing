@@ -3,7 +3,7 @@
  
 Welcome to my Github page!
  
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="100%" />
+<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%"/>
  
 #### :computer: Programming languages and tools: 
 <p>
