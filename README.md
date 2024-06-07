@@ -1,5 +1,5 @@
 <h1 align="center">
-  <!-- <img src="https://raw.githubusercontent.com/fanxiangqing/fanxiangqing/main/name.svg" alt="Fan Xiangqing" /> -->
+  <img src="https://raw.githubusercontent.com/fanxiangqing/fanxiangqing/main/name.svg" alt="Fan Xiangqing" />
 </h1>
 
 <img align="right" width="51%" src="https://github-readme-stats.vercel.app/api?username=fanxiangqing&theme=graywhite&show_icons=true">
